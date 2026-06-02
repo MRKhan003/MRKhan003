@@ -1,16 +1,14 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=4F8CC9&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Muhammad+Roshaan+Khan;Founder+@+Nothing+Orbits;Mobile+Dev+%7C+Gen+AI+%7C+Deep+Learning;Zero+Gravity.+Infinite+Logic." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=4F8CC9&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Muhammad+Roshaan+Khan;Mobile+App+Developer;Gen+AI+%7C+LLM+Integration+%7C+Deep+Learning;Zero+Gravity.+Infinite+Logic." />
 </p>
 
 ---
 
 ## 🚀 About Me  
-With over 3 years of experience building high-performance, visually stunning native and cross-platform applications, I bridge the gap between world-class mobile UI/UX and advanced AI. I don't just build client-facing apps—I architect intelligent systems, seamlessly integrating Large Language Models (LLMs) and engineering custom Deep Learning models from scratch to solve complex real-world problems.
+With over 3 years of experience building high-performance, visually stunning native and cross-platform mobile applications, I bridge the gap between world-class UI/UX and advanced AI integration. I specialize in architecting mobile ecosystems that leverage Large Language Models (including Gemini Flash 2.0, Llama 3.1, and OpenAI) and deploying deep learning models from scratch for production-ready classification, object detection, and smart conversational agents.
 
-As the founder of **Nothing Orbits**, I manage diverse end-to-end projects, blending meticulous technical craftsmanship with AI-driven innovation. I thrive on engineering challenges, from fine-tuning backend pipelines to optimizing neural networks for production.
-
-I am passionate about transitioning freelance models into scalable, product-based companies.
+I handle the entire application lifecycle—from crafting seamless frontends to engineering custom AI modules and fine-tuning models on the backend. I thrive on technical challenges and am always looking to collaborate on cutting-edge ventures.
 
 ---
 
@@ -34,17 +32,12 @@ I am passionate about transitioning freelance models into scalable, product-base
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 
-### **Tools & Infrastructure**
-![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 
 ## 🧠 AI & Deep Learning Capabilities
-* **Generative AI & LLMs:** Production-level integration of commercial and open-source LLMs (Gemini API, OpenAI) utilizing advanced prompt engineering, system instructions, and multi-modal contexts.
-* **Deep Learning from Scratch:** Designing, training, and validating custom Neural Networks (CNNs, RNNs/LSTMs) for specialized tasks such as Computer Vision and predictive modeling without just relying on high-level wrappers.
-* **On-Device AI:** Optimizing and deploying lightweight intelligent models directly onto mobile platforms for low-latency, offline user experiences.
+* **LLM Integration & Gen AI:** Production deployment of advanced models like **Gemini Flash 2.0**, **Llama 3.1**, and **OpenAI APIs** to drive smart mobile features.
+* **Custom Modeling & Fine-Tuning:** Experience fine-tuning pre-trained models from Hugging Face and building custom deep learning pipelines from scratch.
+* **Practical AI Scope:** Proven track record implementing **Retrieval-Augmented Generation (RAG)**, custom image **classification**, real-time **detection**, and context-aware **chatbots** directly into mobile ecosystems.
 
 ---
 
@@ -57,23 +50,28 @@ I am passionate about transitioning freelance models into scalable, product-base
 
 ---
 
-## 🎯 Featured Projects  
+## 🎯 Featured AI Projects  
 
-### 🔹 **Good Luck Yogi**
-A mindfulness and meditation application designed for children, featuring meditation timers, audio content, and interactive Mindful Piano Tiles.
+### 🔹 **Grace AI Counselor**
+An intelligent mental health and counseling application. 
+* **AI Tech Stack:** Integrated **Llama 3.1** to power the core chatbot experience. Built using **Retrieval-Augmented Generation (RAG)** and custom fine-tuning of pre-trained models sourced from Hugging Face to ensure highly empathetic, contextual, and safe interactions.
+* **Platform:** [<img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" />](https://apps.apple.com/us/app/grace-ai-counselor/id6738156659)
 
-### 🔹 **Meri Dukaan**
-A point-of-sale (POS) application utilizing QR codes for streamlined inventory management.
+### 🔹 **Insect & Bug Identifier AI Scanner**
+A computer vision-powered mobile app designed to instantly scan, detect, and categorize various insect species.
+* **AI Tech Stack:** Custom deep learning image **classification** and **detection** models built and optimized for fast mobile execution.
+* **Platform:** [<img src="https://img.shields.io/badge/Google_Play-000000?style=flat-square&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.insect.bug.identifier.ai.scanner&hl=en)
 
-### 🔹 **Whatrr**
-A map-based reward application for water sales that uses GPS-guided submissions and photo uploads.
-
-### 🔹 **Tesoro**
-An interactive treasure hunt application currently undergoing development and testing.
+### 🔹 **Flower Identification & Care Scan**
+An AI-driven scanner that identifies plants and flowers while providing tailored health diagnostics and care guides.
+* **AI Tech Stack:** High-accuracy vision-based **classification** algorithms tailored to handle diverse environments and lighting conditions.
+* **Platform:** [<img src="https://img.shields.io/badge/Google_Play-000000?style=flat-square&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.flower.identification.scan.flower.care&hl=en)
 
 ---
 
 ## 📬 Connect With Me  
+
+Feel free to reach out so we can discuss potential roles, project collaborations, or technical architecture!
 
 <p align="left">
   <a href="https://github.com/MRKhan003"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
